@@ -22,8 +22,8 @@
     "dotSize": 2.0,
     "renderOverMinimapFrame": 1.0,
     "icons": 1.0,
-    "heightLimit": 20.0,
     "names": 0.0,
+    "heightLimit": 20.0,
     "iconScale": 1.0
   },
   "subCategories": [
@@ -53,10 +53,10 @@
           "settingOverrides": {
             "displayed": true,
             "renderOrder": 6.0,
-            "color": 15.0,
-            "icons": 2.0,
+            "names": 2.0,
             "heightLimit": 2050.0,
-            "names": 2.0
+            "color": 15.0,
+            "icons": 2.0
           },
           "subCategories": [
             {
@@ -132,8 +132,8 @@
               "protection": true,
               "settingOverrides": {
                 "renderOrder": 5.0,
-                "icons": 2.0,
-                "names": 2.0
+                "names": 2.0,
+                "icons": 2.0
               },
               "subCategories": []
             }
@@ -161,8 +161,8 @@
               "protection": true,
               "settingOverrides": {
                 "renderOrder": 4.0,
-                "icons": 2.0,
-                "names": 2.0
+                "names": 2.0,
+                "icons": 2.0
               },
               "subCategories": []
             }
