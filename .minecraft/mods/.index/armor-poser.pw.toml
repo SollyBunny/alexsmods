@@ -1,0 +1,14 @@
+name = "Armor Poser"
+filename = "ArmorPoser-forge-1.20.1-2.1.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/PFwYNrHb/versions/qtyHe8vV/ArmorPoser-forge-1.20.1-2.1.2.jar"
+hash-format = "sha512"
+hash = "ea7ab10df2cff55c449d9f526406e3fe3e086a660db8c39540a8b9c734dff01d05926c50e3a77b7c145c41857455b553e313dfc5b0ab1f468942ff7489938593"
+
+[update]
+[update.modrinth]
+mod-id = "PFwYNrHb"
+version = "qtyHe8vV"

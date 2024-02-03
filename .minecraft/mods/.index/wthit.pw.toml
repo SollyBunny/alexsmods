@@ -1,0 +1,14 @@
+name = "WTHIT"
+filename = "wthit-forge-8.6.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/wJfeqDlj/wthit-forge-8.6.0.jar"
+hash-format = "sha512"
+hash = "f2e3f07dd397c46b112e940cd59f5a3f71c7ae62268af08fbeb4433f8e69598df1cfcf81cbf3b632ec0f675c6887c1d9b4020c9413bfa29960e93ae61c684dbe"
+
+[update]
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "wJfeqDlj"
