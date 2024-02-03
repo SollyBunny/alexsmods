@@ -1,0 +1,14 @@
+name = "emogg"
+filename = "emogg-1.0.1+1.20-1.20.1-forged.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/tyANotOf/versions/bIbAXsg8/emogg-1.0.1%2B1.20-1.20.1-forged.jar"
+hash-format = "sha512"
+hash = "61322ed965d18cdbb351117762c38ceec50ba210c51c2a49e4b7fbf24ca4f8648062ad0966fb9791088d85e8c313a002e361e170fef3109e8df285af0d7794f1"
+
+[update]
+[update.modrinth]
+mod-id = "tyANotOf"
+version = "bIbAXsg8"
