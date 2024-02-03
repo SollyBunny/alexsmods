@@ -54,7 +54,7 @@
     "recipe_toast": true,
     "system_toast": true,
     "tutorial_toast": true,
-    "instant_sneak": false,
+    "instant_sneak": true,
     "prevent_shaders": false,
     "steady_debug_hud": true,
     "steady_debug_hud_refresh_interval": 1
