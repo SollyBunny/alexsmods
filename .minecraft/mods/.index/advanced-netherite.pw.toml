@@ -1,0 +1,14 @@
+name = "Advanced Netherite"
+filename = "advancednetherite-forge-2.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/CFX9ftUJ/versions/bUx8Uw1Z/advancednetherite-forge-2.0.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "62906a5cd28af43005cbaeafd50ff56eadfe6b346799c672be192a5997a305e216bdf7d151110c9b6a16fb9dddc35a2b2106d801cc83bcfb1681310041f7bdb6"
+
+[update]
+[update.modrinth]
+mod-id = "CFX9ftUJ"
+version = "bUx8Uw1Z"

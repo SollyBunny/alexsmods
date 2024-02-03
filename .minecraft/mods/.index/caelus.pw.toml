@@ -1,0 +1,14 @@
+name = "Caelus API"
+filename = "caelus-forge-3.1.0+1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/40FYwb4z/versions/fs9CeXYZ/caelus-forge-3.1.0%2B1.20.jar"
+hash-format = "sha512"
+hash = "b665292cf808a6776b77c1bd427dac17ba7b4b38213b6078967f4cd0df089675c21fa6589fc6a27f4970eae8857db99a4441c14628ba1b3c89f10ddbf6c50091"
+
+[update]
+[update.modrinth]
+mod-id = "40FYwb4z"
+version = "fs9CeXYZ"

@@ -1,0 +1,14 @@
+name = "Create: More Automation"
+filename = "CreateMoreAutomation-1.20.1-0.4.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/7iJ65LNI/versions/6ePQqR9Y/CreateMoreAutomation-1.20.1-0.4.0.jar"
+hash-format = "sha512"
+hash = "a006c3b5a9d2373031bb036d23f17ff6e930b745a0953a30e0a15a0247bebd62f6dd0a170ea95f77694879e3d251deaa7685c3d788b6eed7400cf129f6174042"
+
+[update]
+[update.modrinth]
+mod-id = "7iJ65LNI"
+version = "6ePQqR9Y"

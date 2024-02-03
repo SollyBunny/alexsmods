@@ -1,0 +1,14 @@
+name = "EC Alex's Caves Compat"
+filename = "ec_alexs_caves_plugin-1.20.1-1.0.2-all.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/iDcvZOKE/versions/zd80ONG7/ec_alexs_caves_plugin-1.20.1-1.0.2-all.jar"
+hash-format = "sha512"
+hash = "1062e4f7d5407243f32afa2a4887960997d1264dcdfa9ef31dba4c5360590027c0815d9e1ad42eae7f1a63d21e2f85a5d5fae6190512b23e7be70ffcbcfc1d66"
+
+[update]
+[update.modrinth]
+mod-id = "iDcvZOKE"
+version = "zd80ONG7"

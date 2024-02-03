@@ -1,0 +1,14 @@
+name = "Extra Disks"
+filename = "ExtraDisks-1.20.1-3.0.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Tlo2tahX/versions/gsPOqbxs/ExtraDisks-1.20.1-3.0.2.jar"
+hash-format = "sha512"
+hash = "dbf491c3012dd4f7786e6e5044da60e824719a337cd63eab1611a63a563feedbec051f7fcb3f5363c8f1979355eeb7d8c5f1d53793a5aac9602ffbcab20c9aa2"
+
+[update]
+[update.modrinth]
+mod-id = "Tlo2tahX"
+version = "gsPOqbxs"

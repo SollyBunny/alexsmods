@@ -1,0 +1,14 @@
+name = "Elytra Slot"
+filename = "elytraslot-forge-6.3.0+1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/mSQF1NpT/versions/Ohftf0Rf/elytraslot-forge-6.3.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "b1103db5488509145d51ffc7194abfc29e6f3253e05edd46814889d2373653f8e1abcb7db78ffbd9798d07f699e2f3064ed470ded609be4fc8a9d79e12a16e8b"
+
+[update]
+[update.modrinth]
+mod-id = "mSQF1NpT"
+version = "Ohftf0Rf"

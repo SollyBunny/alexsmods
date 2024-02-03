@@ -1,0 +1,14 @@
+name = "EC Advanced Netherite Compat"
+filename = "ec_an_plugin-1.20.1-1.1.0-all.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/A3oLiBU3/versions/Dvv7YabQ/ec_an_plugin-1.20.1-1.1.0-all.jar"
+hash-format = "sha512"
+hash = "a83d9da229f8dd168f0384e37aaf9a92e327529323809559132c40b059c23f5b85f4a75afe1bef3c2074df1e226a527f72ea702984d3c9d9fd7bb61cea0cc6d8"
+
+[update]
+[update.modrinth]
+mod-id = "A3oLiBU3"
+version = "Dvv7YabQ"

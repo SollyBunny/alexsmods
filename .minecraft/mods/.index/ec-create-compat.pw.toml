@@ -1,0 +1,14 @@
+name = "EC Create Compat"
+filename = "ec_create_plugin-1.20.1-1.1.0-all.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Wse1hTdO/versions/FRRqI4xD/ec_create_plugin-1.20.1-1.1.0-all.jar"
+hash-format = "sha512"
+hash = "cef4b623f19daa11704dba5f0166fe5d25563ec6c9cc0a192cce44cdb24754658c67b54ce1d9cc847114d51e319435a1b20215d986c08de0e2c000e74e6b2344"
+
+[update]
+[update.modrinth]
+mod-id = "Wse1hTdO"
+version = "FRRqI4xD"
