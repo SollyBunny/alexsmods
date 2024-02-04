@@ -24,9 +24,9 @@
       "bossBarsOverlap": false
     },
     "color": {
-      "backgroundAlpha": 204,
+      "backgroundAlpha": 180,
       "themes": [],
-      "activeTheme": "waila:vanilla"
+      "activeTheme": "waila:dark"
     },
     "scale": 1.0,
     "fps": 30

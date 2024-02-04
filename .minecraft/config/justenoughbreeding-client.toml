@@ -662,3 +662,81 @@
 			#Extra ingredients required for warped_toad taming
 			warped_toadExtraTamingIngredients = "minecraft:salmon"
 
+	[integration.alexscaves]
+
+		[integration.alexscaves.relicheirus]
+			#Ingredients required for relicheirus breeding
+			relicheirusIngredients = "alexscaves:tree_star"
+			relicheirusSpawnEgg = "alexscaves:spawn_egg_relicheirus"
+			relicheirusBreedingCooldown = 6000
+			#Egg that relicheirus lays after breeding
+			relicheirusEggResult = "alexscaves:relicheirus_egg"
+			#Min amount of eggs that relicheirus lays after breeding
+			#Range: 1 ~ 64
+			relicheirusEggMinAmount = 1
+			#Max amount of eggs that relicheirus lays after breeding
+			#Range: 1 ~ 64
+			relicheirusEggMaxAmount = 1
+
+		[integration.alexscaves.subterranodon]
+			#Ingredients required for subterranodon breeding
+			subterranodonIngredients = "minecraft:cod, minecraft:cooked_cod"
+			subterranodonSpawnEgg = "alexscaves:spawn_egg_subterranodon"
+			subterranodonBreedingCooldown = 6000
+			#Egg that subterranodon lays after breeding
+			subterranodonEggResult = "alexscaves:subterranodon_egg"
+			#Min amount of eggs that subterranodon lays after breeding
+			#Range: 1 ~ 64
+			subterranodonEggMinAmount = 1
+			#Max amount of eggs that subterranodon lays after breeding
+			#Range: 1 ~ 64
+			subterranodonEggMaxAmount = 4
+
+		[integration.alexscaves.tremorsaurus]
+			#Ingredients required for tremorsaurus breeding
+			tremorsaurusIngredients = "alexscaves:cooked_dinosaur_chop, alexscaves:dinosaur_chop"
+			tremorsaurusSpawnEgg = "alexscaves:spawn_egg_tremorsaurus"
+			tremorsaurusBreedingCooldown = 6000
+			#Egg that tremorsaurus lays after breeding
+			tremorsaurusEggResult = "alexscaves:tremorsaurus_egg"
+			#Min amount of eggs that tremorsaurus lays after breeding
+			#Range: 1 ~ 64
+			tremorsaurusEggMinAmount = 1
+			#Max amount of eggs that tremorsaurus lays after breeding
+			#Range: 1 ~ 64
+			tremorsaurusEggMaxAmount = 1
+			#Ingredients required for tremorsaurus taming
+			tremorsaurusTamingIngredients = "alexscaves:serene_salad"
+			#Range: 0 ~ 100
+			tremorsaurusTamingChance = 33
+			#Extra ingredients required for tremorsaurus taming
+			tremorsaurusExtraTamingIngredients = "alexscaves:primitive_club"
+
+		[integration.alexscaves.vallumraptor]
+			#Ingredients required for vallumraptor breeding
+			vallumraptorIngredients = "alexscaves:dinosaur_nugget"
+			vallumraptorSpawnEgg = "alexscaves:spawn_egg_vallumraptor"
+			vallumraptorBreedingCooldown = 6000
+			#Egg that vallumraptor lays after breeding
+			vallumraptorEggResult = "alexscaves:vallumraptor_egg"
+			#Min amount of eggs that vallumraptor lays after breeding
+			#Range: 1 ~ 64
+			vallumraptorEggMinAmount = 1
+			#Max amount of eggs that vallumraptor lays after breeding
+			#Range: 1 ~ 64
+			vallumraptorEggMaxAmount = 4
+			#Ingredients required for vallumraptor taming
+			vallumraptorTamingIngredients = "alexscaves:serene_salad"
+			#Range: 0 ~ 100
+			vallumraptorTamingChance = 33
+
+		[integration.alexscaves.raycat]
+			#Ingredients required for raycat breeding
+			raycatIngredients = "alexscaves:radgill"
+			raycatSpawnEgg = "alexscaves:spawn_egg_raycat"
+			raycatBreedingCooldown = 6000
+			#Ingredients required for raycat taming
+			raycatTamingIngredients = "alexscaves:radgill"
+			#Range: 0 ~ 100
+			raycatTamingChance = 33
+
