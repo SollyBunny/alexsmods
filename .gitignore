@@ -8,3 +8,4 @@
 .minecraft/usernamecache.json
 .minecraft/crash-reports/*
 .minecraft/logs/*
+.minecraft/*_old
