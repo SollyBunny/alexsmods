@@ -1,0 +1,13 @@
+filename = 'purpurpacks-hoe-effective-cactus-1.3.jar'
+name = 'Hoe Effective Cactus [PurpurPack]'
+side = 'server'
+
+[download]
+hash = 'b48c3b5e9f82ef46630bd7e197c7cce9203309a5d9f35c4e2427cc6ceab14c96ed674338964b2c5983d3d1dd94c61362cea2bfa81f864f235efb84e1ff3067df'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Xqq7IBeE/versions/E7r75rN0/purpurpacks-hoe-effective-cactus-1.3.jar'
+
+[update.modrinth]
+mod-id = 'Xqq7IBeE'
+version = 'E7r75rN0'

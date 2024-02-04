@@ -1,0 +1,13 @@
+filename = 'purpurpacks-axe-effective-skulls-1.4.jar'
+name = 'Axe Effective Skulls [PurpurPack]'
+side = 'server'
+
+[download]
+hash = 'c0c25f3d67a281d5c29be923d472358eb2777f1c337eef2df27109f5074f2e1af4b5fc03cecfb53ac50f166286f3f0e1e576988f593c36453f272d4896c7da1e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/S7cHoMDR/versions/XMhEhgiU/purpurpacks-axe-effective-skulls-1.4.jar'
+
+[update.modrinth]
+mod-id = 'S7cHoMDR'
+version = 'XMhEhgiU'

@@ -12,11 +12,15 @@
     "The #waila:blacklist tag rule can not be removed"
   ],
   "blocks": [
+    "#waila:blacklist",
     "minecraft:barrier",
     "minecraft:structure_void"
   ],
-  "blockEntityTypes": [],
+  "blockEntityTypes": [
+    "#waila:blacklist"
+  ],
   "entityTypes": [
+    "#waila:blacklist",
     "minecraft:area_effect_cloud",
     "minecraft:experience_orb",
     "minecraft:fireball",
