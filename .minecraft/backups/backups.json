@@ -1,0 +1,17 @@
+{
+  "backups": [
+    {
+      "worldName": "New World",
+      "createTime": 1707066000302,
+      "backupLocation": "/home/solly/.local/share/minecraft/instances/alexsmods/.minecraft/backups/2024-2-4_17-0-0.zip",
+      "size": 14932565,
+      "ratio": 0.7531568,
+      "sha1": "312892fb3542dd9f9183f0a93e7e9bf775e34226",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    }
+  ]
+}
